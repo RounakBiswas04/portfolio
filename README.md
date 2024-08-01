@@ -1,4 +1,4 @@
-# Srinivas Veerla's Portfolio
+# Rounak Biswas's Portfolio
 
 This is a personal portfolio website built using React, TypeScript, and Material UI.
 
